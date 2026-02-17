@@ -1,1 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header nav ul {
+  display: flex;
+  list-style: none;
+  background: #222;
+  margin: 0;
+  padding: 10px;
+}
+
+header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+header nav ul li a:hover {
+  color: #0af;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #222;
+  color: #fff;
+}
 
